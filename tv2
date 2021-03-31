@@ -24,6 +24,8 @@ https://rhridoy136.shortcm.li/boishakhitv.m3u8
 #EXTINF:-1 ,09.MY TV
 https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:-1 ,10.T Spots
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=2dd0f05fe561bb2dd0d1b98cb8502c0a245b1c7e-e3bbfd833067866c0afa6baf1541b10e-1617215735-1617204935
+#EXTINF:-1 ,10.T Spots
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1 ,11.Channel 9
 https://rhridoy136.shortcm.li/channel9.m3u8
@@ -61,6 +63,8 @@ http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,24.Jolsha Movies ftpbd
 http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 ,24.Jolsha Movies amrbd
+http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=56994549a1922acd78d71f94436ac5de3f1ff935-49f4930082f077ca6d1cef9344206c52-1617216062-1617205262
 #EXTINF:-1 ,25.Zee Bangla hd
 http://43.230.123.21:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,25.Zee Bangla f
